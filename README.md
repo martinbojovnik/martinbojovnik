@@ -1,3 +1,3 @@
 Hi, I’m @martinbojovnik
 
-I have basic of C# (+ Unity) and Python
+I have the basics of C# (+ unity), Python, Html, Css and Javascript
